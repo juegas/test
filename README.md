@@ -1,1 +1,2 @@
-feature 2 merged in github
+feature3 ready for merge
+
